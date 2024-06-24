@@ -1,5 +1,6 @@
 # trabajo_2parte_a
 Esta es una aplicación de gestión de tareas desarrollada con Ionic y Angular. Está diseñada para ayudar a los usuarios a organizar y administrar sus tareas diarias de manera eficiente. La aplicación permite agregar, editar, y listar tareas de una manera intuitiva y fácil de usar.
+
 ## Funcionalidades
 Agregar Tareas: Los usuarios pueden agregar nuevas tareas ingresando un título y una descripción. Las tareas se pueden clasificar según la prioridad y la fecha de vencimiento.
 
@@ -10,7 +11,7 @@ Listar Tareas: Las tareas se muestran en una lista organizada. Los usuarios pued
 Eliminar Tareas: Los usuarios pueden eliminar tareas que ya no son necesarias, manteniendo la lista de tareas limpia y relevante.
 
 ### Requisitos previos
-Antes de empezar, asegúrate de tener instalado lo siguiente:
+Antes de empezar, debe estar instalado lo siguiente:
 
 Node.js
 npm (Node Package Manager)
